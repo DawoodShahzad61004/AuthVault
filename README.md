@@ -2,7 +2,7 @@
 ## 📦 How to Run Locally
 
 1. Clone this repository  
-   `git clone https://github.com/DawoodShahzad61004/To-Do_List.git`
+   `git clone https://github.com/DawoodShahzad61004/AuthVault.git`
 
 2. Open `index.html` in your browser
 
@@ -17,7 +17,7 @@ No additional setup needed — it's a purely frontend project.
 
 ## ⭐️ Show Your Support
 
-If you like this project, give it a ⭐ on [GitHub](https://github.com/DawoodShahzad61004/To-Do_List)!
+If you like this project, give it a ⭐ on [GitHub](https://github.com/DawoodShahzad61004/AuthVault)!
 
 ---
 
